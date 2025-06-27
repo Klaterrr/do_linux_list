@@ -10,7 +10,7 @@
 
 *   Скриншот команды `sudo adduser test` для создания нового пользователя.
 
-    ![Creating new user seb](part02_adduser_test.png)
+    ![Creating new user seb](images/part02_adduser_test.png)
 
 *   Скриншот вывода команды `cat /etc/passwd | grep test`, подтверждающий, что пользователь `test` был успешно добавлен в систему.
 
@@ -110,7 +110,7 @@
 *   **Редактирование без сохранения:**
     *   Скриншот редактора с измененным текстом.
 
-        ![MCEDIT edit no save](part07_mcedit_edit_no_save.png)
+        ![MCEDIT edit no save](images/part07_mcedit_edit_no_save.png)
 
     *   Чтобы выйти без сохранения, я нажал `F10` и в появившемся окне выбрал `No`.
 
